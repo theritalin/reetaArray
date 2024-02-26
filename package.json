@@ -1,0 +1,22 @@
+{
+  "name": "reetaarray",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theritalin/reetaArray.git"
+  },
+  "author": "thertln",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theritalin/reetaArray/issues"
+  },
+  "homepage": "https://github.com/theritalin/reetaArray#readme",
+  "dependencies": {
+    "reeta": "^1.0.4"
+  }
+}
